@@ -1,9 +1,7 @@
-import java.util.ArrayList;
-
 /**
  * An interface for displaying patterns.
  */
-public interface MakePattern<K> {
+public interface IMakePattern {
 
   /**
    * Displays a pattern in a way that can be output to the console.
