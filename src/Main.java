@@ -1,7 +1,7 @@
 import java.io.InputStreamReader;
 
 /**
- *
+ * Main class for making patterns.
  */
 public class Main {
 
