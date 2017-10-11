@@ -3,7 +3,7 @@ import java.util.ArrayList;
 /**
  * Produces an X pattern of variable size.
  */
-public class MakeXPattern implements MakePattern {
+public class MakeXPattern implements IMakePattern {
 
   private final ArrayList<ArrayList<Mark>> pattern;
 
